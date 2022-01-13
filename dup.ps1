@@ -1,1 +1,1 @@
-Get-Content ip-list.txt | Group-Object | Where-Object { $_.Count -gt 1 } | select -ExpandProperty Name
+Get-Content ip-list.csv | Group-Object | Where-Object { $_.Count -gt 1 } | select -ExpandProperty Name
