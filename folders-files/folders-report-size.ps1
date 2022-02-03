@@ -1,5 +1,5 @@
 # Get-FileReport.ps1
-# Folder Report with File Count and Size
+# Folder Report with File Count and Size.
 #Author: Kevin Trent, Whatdouknow.com
 #Right click .ps1 file and Open with PowerShell
 #Enter Filepath or share path.
